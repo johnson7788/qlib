@@ -1,0 +1,132 @@
+1673327889712	geckodriver	INFO	Listening on 127.0.0.1:55963
+1673327890219	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55964" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mw/rssk_hx97dsdq43_5cxlxpj40000gn/T/rust_mozprofileN6afAr"
+2023-01-10 13:18:13.120 plugin-container[57511:4149090] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-10 13:18:13.121 plugin-container[57511:4149090] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-10 13:18:13.228 plugin-container[57511:4149090] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-10 13:18:13.228 plugin-container[57511:4149090] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-10 13:18:13.228 plugin-container[57511:4149096] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-10 13:18:13.228 plugin-container[57511:4149096] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:55964
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:55964/devtools/browser/9d8e0027-892c-453c-b384-95f4049d4de0
+1673327897042	geckodriver	INFO	Listening on 127.0.0.1:56006
+1673327897563	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56007" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mw/rssk_hx97dsdq43_5cxlxpj40000gn/T/rust_mozprofile16OnlT"
+2023-01-10 13:18:17.828 plugin-container[57528:4149562] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-10 13:18:17.828 plugin-container[57528:4149562] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-10 13:18:17.830 plugin-container[57528:4149562] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-10 13:18:17.830 plugin-container[57528:4149562] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-10 13:18:17.831 plugin-container[57528:4149569] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-10 13:18:17.831 plugin-container[57528:4149569] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673327897840	Marionette	INFO	Marionette enabled
+1673327897857	Marionette	INFO	Listening on port 56016
+Read port: 56016
+WebDriver BiDi listening on ws://127.0.0.1:56007
+1673327898004	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/mw/rssk_hx97dsdq43_5cxlxpj40000gn/T/rust_mozprofile16OnlT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56007/devtools/browser/24aad940-5797-435a-b58c-450fc1fbd29c
+1673327939951	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1673327970199	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1673327979774	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1673328000087	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1673328029697	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1673328040139	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1673328051131	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1673328102063	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1673328116149	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1673328121276	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1673328515406	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1673331148431	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+Exiting due to channel error.
+Exiting due to channel error.
+1673331188177	geckodriver	INFO	Listening on 127.0.0.1:62021
+1673331188708	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62022" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mw/rssk_hx97dsdq43_5cxlxpj40000gn/T/rust_mozprofilelxrf8X"
+2023-01-10 14:13:09.069 plugin-container[59743:4182855] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-10 14:13:09.069 plugin-container[59743:4182855] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-10 14:13:09.084 plugin-container[59743:4182855] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-10 14:13:09.085 plugin-container[59743:4182855] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-10 14:13:09.085 plugin-container[59743:4182853] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-10 14:13:09.085 plugin-container[59743:4182853] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673331189095	Marionette	INFO	Marionette enabled
+1673331189118	Marionette	INFO	Listening on port 62030
+Read port: 62030
+WebDriver BiDi listening on ws://127.0.0.1:62022
+1673331189229	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/mw/rssk_hx97dsdq43_5cxlxpj40000gn/T/rust_mozprofilelxrf8X/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62022/devtools/browser/a49c839b-37f3-4b8d-9c9e-50b2f8db584d
+1673331201435	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1673331245486	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1673331250506	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1673331259449	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1673331286476	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+Exiting due to channel error.
+Exiting due to channel error.
